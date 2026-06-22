@@ -1,0 +1,20 @@
+{
+  "library": {
+    "name": "City Library",
+    "location": "Mumbai",
+    "books": [
+      {
+        "id": 1,
+        "title": "Python Basics",
+        "author": "John Smith",
+        "price": 450
+      },
+      {
+        "id": 2,
+        "title": "Java Programming",
+        "author": "David Lee",
+        "price": 550
+      }
+    ]
+  }
+}
