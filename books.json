@@ -2,18 +2,14 @@
   "library": {
     "name": "City Library",
     "location": "Mumbai",
+    "database_password": "admin123",
+    "api_key": "AIzaSyA1B2C3D4E5F6G7H8I9J0",
     "books": [
       {
         "id": 1,
         "title": "Python Basics",
         "author": "John Smith",
         "price": 450
-      },
-      {
-        "id": 2,
-        "title": "Java Programming",
-        "author": "David Lee",
-        "price": 550
       }
     ]
   }
